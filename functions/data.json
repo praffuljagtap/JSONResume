@@ -1,0 +1,98 @@
+{
+  "name": "Prafful Jagtap",
+  "version": "26.11.20 (yy.mm.dd)",
+  "title": "Full-Stack Engineer",
+  "email": "prafful.jagtap1995@gmail.com",
+  "phone": "0448336086",
+  "location": "Wentworth Point, New South Wales, Australia 2127",
+  "workExperience": [{
+    "title": "Software Developer",
+    "company": {
+      "name": "Kinela",
+      "location": "Surry Hills, Sydney",
+      "techStack": [ "Flutter", "Node", "TypeScript", "Firebase", "PostgreSQL" ]
+    },
+    "workingSince": "Nov 2021",
+    "currentCompany": true,
+    "lastDayOfWork": null
+  }, {
+    "title": "Software Engineer",
+    "company": {
+      "name": "Nine",
+      "location": "North Sydney, Sydney",
+      "techStack": [ "React", "GoLang", "TypeScript", "AWS", "GraphQL", "gRPC" ]
+    },
+    "workingSince": "Feb 2021",
+    "currentCompany": false,
+    "lastDayOfWork": "Oct 2021"
+  }, {
+    "title": "Front-End Developer",
+    "company": {
+      "name": "AI Health",
+      "location": "Melbourne (Remote)",
+      "techStack": [ "React", "TypeScript", "Azure" ]
+    },
+    "workingSince": "Aug 2020",
+    "currentCompany": false,
+    "lastDayOfWork": "Nov 2020"
+  }, {
+    "title": "Data Scientist (Intern)",
+    "company": {
+      "name": "AI Australia / AI Sydney",
+      "location": "Sydney",
+      "techStack": [ "Python", "PowerBI", "Azure" ]
+    },
+    "workingSince": "Feb 2020",
+    "currentCompany": false,
+    "lastDayOfWork": "Jul 2020"
+  }, {
+    "title": "Software Developer",
+    "company": {
+      "name": "Transfinite Innovative Solutions",
+      "location": "Mumbai, India",
+      "techStack": [ "Angular 2+", "Node", "TypeScript", "Ionic", "MySQL" ]
+    },
+    "workingSince": "Jul 2018",
+    "currentCompany": false,
+    "lastDayOfWork": "Dec 2018"
+  }, {
+    "title": "Software Developer",
+    "company": {
+      "name": "Self-Employed (Freelancer)",
+      "location": "Navi Mumbai, India",
+      "techStack": [ "Angular 2+", "Node", "TypeScript", "ionic", "MySQL" ]
+    },
+    "workingSince": "Jan 2018",
+    "currentCompany": false,
+    "lastDayOfWork": "Jun 2018"
+  }, {
+    "title": "Software Developer",
+    "company": {
+      "name": "Centillion",
+      "location": "Navi Mumbai, India",
+      "techStack": [ "Laravel", "HTML", "CSS", "JavaScript", "Redis", "MySQL" ]
+    },
+    "workingSince": "Jun 2017",
+    "currentCompany": false,
+    "lastDayOfWork": "Dec 2017"
+  }],
+  "education": [{
+    "title": "Master of Computer Science",
+    "institute": "University of Wollongong",
+    "location": "Wollongong, Australia",
+    "completed": true,
+    "courseCompletionDate": "Dec 2020"
+  }, {
+    "title": "Bachelor of Computer Science",
+    "institute": "University of Mumbai",
+    "location": "Mumbai, India",
+    "completed": true,
+    "courseCompletionDate": "April 2017"
+  }],
+  "techStack": [ "React", "TypeScript", "Flutter", "Node", "AWS", "Firebase", "SQL", "NoSQL", "Git", "Ionic", "Docker", "Kubernetes", "GCP", "Azure", "NestJS", "Laravel", "more..." ],
+  "social": {
+    "gitHub": "https://github.com/praffuljagtap",
+    "linkedIn": "https://www.linkedin.com/in/prafful-jagtap/",
+    "website": "https://praffuljagtap.dev/"
+  }
+}
